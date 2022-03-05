@@ -1,0 +1,8 @@
+_id,academias,fechaNacimiento,id_tutor,nombre,vivienda.coordinates,vivienda.type
+6223806b8200fb21b15d543f,"[{""nombre"":""Inglés"",""beca"":200},{""nombre"":""Matemáticas"",""beca"":100}]",2000-04-09T00:00:00.000Z,111ABC,Laura Cuevas Robles,"[-5.8961,37.59909]",Point
+6223806c8200fb21b15d5440,"[{""nombre"":""Inglés"",""beca"":140},{""nombre"":""Historia"",""beca"":20}]",2000-01-19T00:00:00.000Z,555POU,Juan Galán Pérez,"[-5.8761,37.56909]",Point
+6223806c8200fb21b15d5441,"[{""nombre"":""Inglés"",""beca"":15},{""nombre"":""Física"",""beca"":120}]",2000-02-02T00:00:00.000Z,333RTE,Encarnación Alcántara Robles,"[-5.6561,37.6009]",Point
+6223806c8200fb21b15d5442,"[{""nombre"":""Matemáticas"",""beca"":50}]",2004-10-09T00:00:00.000Z,666EEE,Mohammed Jadrán Albil,"[-5.8961,37.59909]",Point
+6223806c8200fb21b15d5443,"[{""nombre"":""Física"",""beca"":70},{""nombre"":""Inglés"",""beca"":20}]",2004-06-01T00:00:00.000Z,111ABC,Desiree Cabrera Muñoz,"[-5.8961,37.59909]",Point
+6223806c8200fb21b15d5444,"[{""nombre"":""Química"",""beca"":49},{""nombre"":""Física"",""beca"":28}]",2006-02-10T00:00:00.000Z,666EEE,Javier López Zabala,"[-5.8961,37.59909]",Point
+6223806c8200fb21b15d5445,"[{""nombre"":""Inglés"",""beca"":80},{""nombre"":""Matemáticas"",""beca"":20}]",2006-08-29T00:00:00.000Z,777III,Marta Alonso Sánchez,"[-5.8961,37.59909]",Point

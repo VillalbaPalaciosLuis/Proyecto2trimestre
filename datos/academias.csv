@@ -1,0 +1,6 @@
+_id,clases,clasesTarde,edificio.coordinates,edificio.type,nombre,precio
+1,"[""Lunes"",""Jueves"",""Viernes""]",false,"[-5.9961,37.39909]",Point,Inglés,280.2
+2,"[""Martes"",""Jueves""]",true,"[-6.8761,36.45909]",Point,Matemáticas,315
+3,"[""Martes"",""Jueves"",""Viernes""]",true,"[-6.4661,37.45909]",Point,Historia,130.3
+4,"[""Martes"",""Jueves""]",false,"[-5.8731,37.45909]",Point,Física,110
+5,"[""Lunes"",""Miércoles"",""Jueves""]",false,"[-6.6761,36.45989]",Point,Química,240.5

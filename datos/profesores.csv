@@ -1,0 +1,8 @@
+_id,claseOnline,diasTutoria,fechaNac,imparte,nombre,sueldo
+111ABC,true,"[7,14,28]",1982-04-02T00:00:00.000Z,Inglés,Elena Muñoz Cuevas,620.18
+222DEF,true,"[3,25]",1988-02-17T00:00:00.000Z,Matemáticas,Natalia Lázaro Pérez,620.18
+333RTE,false,"[8,18,26]",1991-08-21T00:00:00.000Z,Química,Pablo Rodríguez Palacio,840.38
+444YTE,true,"[12,14,27]",1993-04-04T00:00:00.000Z,Física,Iker Aramburu Andueza,560
+555POU,false,"[1,10,20]",1997-11-02T00:00:00.000Z,Inglés,William Smith Andrews,632.35
+666EEE,false,"[5,15,25]",1982-04-27T00:00:00.000Z,Historia,Abraham Robles Linares,810.5
+777III,true,"[8,18,28]",1977-07-21T00:00:00.000Z,Historia,Zarah Mnilui Alcaz,500.7
