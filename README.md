@@ -31,4 +31,4 @@ Incluye pdf con explicación teórica y conceptual de la base de datos realizada
 
 9. ***Operadores usados***
 
-10.***Etapa $geoNear***
+10. ***Etapa $geoNear***
